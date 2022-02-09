@@ -1,38 +1,26 @@
-[![author](https://github.com/erpaes/Data_Science_Portfolio/blob/main/Banner_Portfolio.png?raw=true)]
-(https://www.linkedin.com/in/ellenpaes) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]
+[![author](https://img.shields.io/badge/author-ellenpaes-red.svg)](https://www.linkedin.com/in/ellenpaes) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ellenrpaes/Data_Science_Projects/issues)
 
 <p align="center">
-  <img src="banner.png" >
+  <img src="banner_ellen.png" >
 </p>
 
-# Nome da pessoa
-<sub>*Cargo ou Formação* at XPTO Center</sub>
+# Ellen Paes
+<sub>*Data Scientist* </sub>
 
-Descrição profissional de vocês
+I am a professional with 16 years of experience in a global mining company and I have been working in different business areas all over these years with such a strong analytical view and passion for collecting and analyzing data. I am focused on answering business challenges and giving insights through machine learning techniques and other analytics tools. I am currently responsible for the development of an analytical view in Health & Safety processes and implementation of predicts models to support top management decisions.
 
-**Background in:** Pensamento Analítico, Power BI, SQL
+**Background in:** Python | Machine Learning | Data Mining | Exploratory Analysis | Problem Solving | Handling Pressure | Power BI | SQL
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/ellenpaes)
 
+## Projects:
+See below my projects and analysis during my studies:
 
-## Projetos:
-Veja os projetos desenvolvidos por tema:
-
-* **Power BI:**
-- Dashboard de Monitoramento de Vendas: 
-- Dashboard de xxxx:
-
-* **SQL:**
-- Descrição das principais funcionalidades para edição de dados:
-- Descrição das principais funcionalidades para consulta de dados de dados:
-
-* **Projetos Analíticos:**
-- Como usar a Estatística Descritiva na exploração dos dados
-- Projeto 1
-- Projeto 2
-
+* **Telecom Churn Prediction:** https://bit.ly/3dSW2oj
+* **Credit Card Fraud Anomaly Detection:** https://bit.ly/2S6lhK3
+* **Airbnb Analysis - Montreal/Canada:** https://bit.ly/337C3P5
+* **Violence Analysis in Rio de Janeiro:** https://bit.ly/3j9Q7gC
+* **Coronavirus Analysis:** https://bit.ly/2S3Z9Qn
+* **Challenge Sigmoidal - HR Analysis and Prediction:** https://bit.ly/2FYi9NV
 ---
-
-
-
